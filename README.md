@@ -1,14 +1,3 @@
 <!-- Banner -->
 <img align="center" src="https://github.com/rayane-b/rayane-b/blob/36aeb22045463f4a8c50a7e0470328af5442b9f9/banner.png" alt="Rayane B." />
-
-<!-- Badges -->
-<p align='center'>
-
-  <a href="https://www.linkedin.com/in/rayane-b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-
-  
-</p>
-
 ![](https://komarev.com/ghpvc/?username=rayane-b&label=Visitors&style=for-the-badge)
