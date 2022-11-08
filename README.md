@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" src="https://github.com/rayane-b/rayane-b/blob/36aeb22045463f4a8c50a7e0470328af5442b9f9/banner.png" alt="Rayane B." />
+<img align="center" src="https://github.com/rayane-b/rayane-b/blob/8b1a48896c963532da59c84f2d821644c1d9070e/banner%20(1).png" alt="Rayane B." />
 
 
 
